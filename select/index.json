@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ファントムヴァイブレーション",
+  "base_artist": "キュウソネコカミ",
+  "createdAt": "2026-01-02T03:07:05.699213Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ファントムヴァイブレーション",
+      "artist": "キュウソネコカミ",
+      "has_synced": false,
+      "path": "select/pl_01_ファントムヴァイブレーション_キュウソネコカミ.txt"
+    }
+  ]
+}
